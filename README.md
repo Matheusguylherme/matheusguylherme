@@ -1,4 +1,4 @@
-## Olá! Eu sou o matheusguylherme
+## Olá! Eu sou o matheus guylherme
 
 - 🌱 Estudando HTML,js e C
 - 😄 Pronouns: ele/dele
