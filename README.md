@@ -3,7 +3,8 @@
 <div  align="center" style="margin-bottom:100px">
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusguylherme)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusguylherme)](https://github.com/anuraghazra/github-readme-stats-&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusguylherme)](https://github.com/anuraghazra/github-readme-stats-&theme=dracula)
 
  ##
  </div>
@@ -33,8 +34,7 @@
 <div> 
   <a href="https://www.instagram.com/matheus.guy7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheusguylhermelive@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https:/www.linkedin.com/in/matheus-guylherme-8a9a90251-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+ <a href="https://www.linkedin.com/in/matheus-guylherme-8a9a90251" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
